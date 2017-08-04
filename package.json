@@ -1,0 +1,33 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.11",
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.1.2",
+    "gulp-postcss": "^7.0.0",
+    "postcss-import": "^10.0.0",
+    "postcss-nested": "^2.1.0",
+    "postcss-simple-vars": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minadjuric/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minadjuric/resume/issues"
+  },
+  "homepage": "https://github.com/minadjuric/resume#readme"
+}
